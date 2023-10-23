@@ -17,7 +17,6 @@ O [Pactum.js](https://github.com/pactum/pactum) é uma biblioteca JavaScript de 
 ## Uso
 
 1. Instale o Pactum.js em seu projeto via npm:
-   bash
    npm install pactum
    ```
 
